@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main()
+{
+    scanf_s("hello world");
+    printf("welcome to the new world");
+    
+    return 0;
+}
+
